@@ -1,0 +1,11 @@
+<map id="souffle::detail::btree::node::insert_inner" name="souffle::detail::btree::node::insert_inner">
+<area shape="rect" id="node2" href="$structsouffle_1_1detail_1_1btree_1_1node.html#a014063a5026af18753d13766ba71179d" title="Obtains a reference to the child of the given index. " alt="" coords="411,5,549,46"/>
+<area shape="rect" id="node4" href="$structsouffle_1_1detail_1_1btree_1_1node.html#a70bd0452c917eda335910f749ab14424" title="Obtains a pointer to the array of child&#45;pointers of this node – if it is an inner node..." alt="" coords="599,63,737,105"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_optimistic_read_write_lock.html#a5c63a226c4fb6dd2869c3b7e7fd6dfca" title="souffle::OptimisticReadWrite\lLock::is_write_locked" alt="" coords="787,271,978,313"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1detail_1_1btree_1_1node.html#a21cf4a55972ed24a7c7d756e184961c9" title="Moves keys from this node to one of its siblings or splits this node to make some space for the inser..." alt="" coords="192,155,363,197"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1detail_1_1btree_1_1node.html#a8076ed534c629b7d1984e11b81dab6ce" title="A utility function providing a reference to this node as an inner node. " alt="" coords="813,34,953,75"/>
+<area shape="rect" id="node7" href="$structsouffle_1_1detail_1_1btree_1_1node.html#ab86aecc8497b36d000fc8c0204114ed4" title="Splits this node. " alt="" coords="411,122,549,163"/>
+<area shape="rect" id="node10" href="$structsouffle_1_1detail_1_1btree_1_1base.html#a94dea77bc474eccc97f4fdd6c52c7307" title="souffle::detail::btree\l::base::isInner" alt="" coords="411,187,549,229"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1detail_1_1btree_1_1node.html#ae450d5b0d6fa291bcd3affa23c2ffdea" title="Obtains the point at which full nodes should be split. " alt="" coords="598,181,738,222"/>
+<area shape="rect" id="node9" href="$structsouffle_1_1detail_1_1btree_1_1node.html#a8e8ebab50fa9076ac5cc03249525b47d" title="Inserts a new sibling into the parent of this node utilizing the last key of this node as a separatio..." alt="" coords="599,301,737,342"/>
+</map>

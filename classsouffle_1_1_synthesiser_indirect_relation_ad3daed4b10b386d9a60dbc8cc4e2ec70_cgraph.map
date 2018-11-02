@@ -1,0 +1,11 @@
+<map id="souffle::SynthesiserIndirectRelation::generateTypeStruct" name="souffle::SynthesiserIndirectRelation::generateTypeStruct">
+<area shape="rect" id="node2" href="$classsouffle_1_1_index_set.html#a9960f863d195b38db30aa42231ef612c" title="Get all indexes. " alt="" coords="271,5,401,46"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_synthesiser_relation.html#a2bf63cc6b290d98fc967bc439e54da54" title="Get arity of relation. " alt="" coords="475,66,661,107"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_synthesiser_relation.html#a801044cc5ece6bf1b8966697ccf8c82f" title="Get stored IndexSet. " alt="" coords="475,138,661,179"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_synthesiser_relation.html#a0625138126553a87bdee87fbe851e38d" title="Get list of indices used for relation, guaranteed that original indices in IndexSet come before any g..." alt="" coords="475,218,661,259"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_index_set.html#a1eb65214147ca33cfd6ffd1ad246e6eb" title="Get index for a search. " alt="" coords="271,341,401,382"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_synthesiser_indirect_relation.html#a6eaec6168eb87c50938ca5fd30730d83" title="Generate type name of a indirect indexed relation. " alt="" coords="245,173,427,214"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="523,288,613,315"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="710,66,855,107"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_index_set.html#aa2c6d5c6162371af92c71c0468874979" title="maps search columns to an lexicographical order (labeled by a number) " alt="" coords="491,348,645,375"/>
+</map>

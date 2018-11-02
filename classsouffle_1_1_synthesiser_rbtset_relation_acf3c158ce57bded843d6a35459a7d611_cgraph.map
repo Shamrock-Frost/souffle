@@ -1,0 +1,11 @@
+<map id="souffle::SynthesiserRbtsetRelation::generateTypeStruct" name="souffle::SynthesiserRbtsetRelation::generateTypeStruct">
+<area shape="rect" id="node2" href="$classsouffle_1_1_index_set.html#a9960f863d195b38db30aa42231ef612c" title="Get all indexes. " alt="" coords="270,5,399,46"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_synthesiser_relation.html#a2bf63cc6b290d98fc967bc439e54da54" title="Get arity of relation. " alt="" coords="472,66,659,107"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_synthesiser_relation.html#a801044cc5ece6bf1b8966697ccf8c82f" title="Get stored IndexSet. " alt="" coords="472,138,659,179"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_synthesiser_relation.html#a0625138126553a87bdee87fbe851e38d" title="Get list of indices used for relation, guaranteed that original indices in IndexSet come before any g..." alt="" coords="472,218,659,259"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_index_set.html#a1eb65214147ca33cfd6ffd1ad246e6eb" title="Get index for a search. " alt="" coords="270,341,399,382"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_synthesiser_rbtset_relation.html#acb0f43c3d3da901b64e27d8c8717b74e" title="Generate type name of a rbtset relation. " alt="" coords="246,173,423,214"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="521,288,610,315"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="707,66,853,107"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_index_set.html#aa2c6d5c6162371af92c71c0468874979" title="maps search columns to an lexicographical order (labeled by a number) " alt="" coords="488,348,643,375"/>
+</map>

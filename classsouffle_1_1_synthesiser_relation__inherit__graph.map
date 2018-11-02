@@ -1,0 +1,9 @@
+<map id="souffle::SynthesiserRelation" name="souffle::SynthesiserRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_synthesiser_brie_relation.html" title="{souffle::SynthesiserBrie\lRelation\n||+ computeIndices()\l+ generateTypeStruct()\l+ getTypeName()\l+ SynthesiserBrieRelation()\l}" alt="" coords="5,352,187,488"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_synthesiser_direct_relation.html" title="{souffle::SynthesiserDirect\lRelation\n||+ computeIndices()\l+ generateTypeStruct()\l+ getTypeName()\l+ SynthesiserDirectRelation()\l}" alt="" coords="212,352,407,488"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_synthesiser_eqrel_relation.html" title="{souffle::SynthesiserEqrel\lRelation\n||+ computeIndices()\l+ generateTypeStruct()\l+ getTypeName()\l+ SynthesiserEqrelRelation()\l}" alt="" coords="431,352,620,488"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_synthesiser_hashset_relation.html" title="{souffle::SynthesiserHashset\lRelation\n||+ computeIndices()\l+ generateTypeStruct()\l+ getTypeName()\l+ SynthesiserHashsetRelation()\l}" alt="" coords="644,352,852,488"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_synthesiser_indirect_relation.html" title="{souffle::SynthesiserIndirect\lRelation\n||+ computeIndices()\l+ generateTypeStruct()\l+ getTypeName()\l+ SynthesiserIndirectRelation()\l}" alt="" coords="876,352,1079,488"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_synthesiser_nullary_relation.html" title="{souffle::SynthesiserNullary\lRelation\n||+ computeIndices()\l+ generateTypeStruct()\l+ getTypeName()\l+ SynthesiserNullaryRelation()\l}" alt="" coords="1103,352,1301,488"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_synthesiser_rbtset_relation.html" title="{souffle::SynthesiserRbtset\lRelation\n||+ computeIndices()\l+ generateTypeStruct()\l+ getTypeName()\l+ SynthesiserRbtsetRelation()\l}" alt="" coords="1326,352,1524,488"/>
+</map>

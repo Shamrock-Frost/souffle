@@ -1,0 +1,6 @@
+<map id="souffle::profile::Tui::genJsonRelations" name="souffle::profile::Tui::genJsonRelations">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1profile_1_1_tools.html#a88c43a221e64a3caa215693a871928ff" title="souffle::profile::Tools\l::cleanJsonOut" alt="" coords="208,5,352,46"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1profile_1_1_output_processor.html#a00fc18c81242ba0ba6a36de106a3c33b" title="souffle::profile::Output\lProcessor::getProgramRun" alt="" coords="190,70,370,111"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="208,135,352,177"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="223,201,337,228"/>
+</map>

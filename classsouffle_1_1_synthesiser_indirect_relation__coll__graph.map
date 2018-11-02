@@ -1,0 +1,8 @@
+<map id="souffle::SynthesiserIndirectRelation" name="souffle::SynthesiserIndirectRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1_synthesiser_relation.html" title="{souffle::SynthesiserRelation\n||+ computeIndices()\l+ generateTypeStruct()\l+ getArity()\l+ getDataStructure()\l+ getIndexSet()\l+ getIndices()\l+ getRamRelation()\l+ getTypeName()\l+ SynthesiserRelation()\l+ ~SynthesiserRelation()\l+ getSynthesiserRelation()\l}" alt="" coords="891,1235,1077,1459"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ram_relation.html" title="A RAM Relation in the RAM intermediate representation. " alt="" coords="981,539,1139,778"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_index_set.html" title="Computes the index set for a relation. " alt="" coords="663,843,845,1170"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_max_matching.html" title="Computes a maximum matching with Hopcroft&#45;Karp algorithm Source: http://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm#Pseudocode. " alt="" coords="258,576,405,741"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ram_node.html" title="RamNode is a superclass for all RAM IR classes. " alt="" coords="693,147,821,357"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_symbol_mask.html" title="{souffle::SymbolMask\n||+ getArity()\l+ isSymbol()\l+ operator!=()\l+ operator==()\l+ print()\l+ setSymbol()\l+ SymbolMask()\l+ SymbolMask()\l}" alt="" coords="846,162,991,342"/>
+</map>

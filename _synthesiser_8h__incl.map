@@ -1,0 +1,22 @@
+<map id="Synthesiser.h" name="Synthesiser.h">
+<area shape="rect" id="node2" href="$_index_set_analysis_8h.html" title="IndexSetAnalysis.h" alt="" coords="2725,304,2859,331"/>
+<area shape="rect" id="node17" href="$_ram_types_8h.html" title="RamTypes.h" alt="" coords="2551,603,2648,629"/>
+<area shape="rect" id="node40" href="$_ram_statement_8h.html" title="RamStatement.h" alt="" coords="2285,80,2405,107"/>
+<area shape="rect" id="node48" href="$_synthesiser_relation_8h.html" title="SynthesiserRelation.h" alt="" coords="3370,229,3520,256"/>
+<area shape="rect" id="node3" href="$_ram_analysis_8h.html" title="RamAnalysis.h" alt="" coords="1474,379,1584,405"/>
+<area shape="rect" id="node5" href="$_ram_relation_8h.html" title="RamRelation.h" alt="" coords="2083,379,2192,405"/>
+<area shape="rect" id="node6" href="$_i_o_directives_8h.html" title="IODirectives.h" alt="" coords="2051,528,2157,555"/>
+<area shape="rect" id="node10" href="$_parallel_utils_8h.html" title="ParallelUtils.h" alt="" coords="1745,528,1847,555"/>
+<area shape="rect" id="node12" href="$_ram_node_8h.html" title="RamNode.h" alt="" coords="1423,453,1515,480"/>
+<area shape="rect" id="node20" href="$_symbol_mask_8h.html" title="SymbolMask.h" alt="" coords="3341,528,3451,555"/>
+<area shape="rect" id="node22" href="$_symbol_table_8h.html" title="SymbolTable.h" alt="" coords="1641,453,1751,480"/>
+<area shape="rect" id="node23" href="$_util_8h.html" title="Util.h" alt="" coords="1872,528,1925,555"/>
+<area shape="rect" id="node36" href="$_table_8h.html" title="Table.h" alt="" coords="2029,453,2093,480"/>
+<area shape="rect" id="node41" href="$_ram_operation_8h.html" title="RamOperation.h" alt="" coords="2003,155,2119,181"/>
+<area shape="rect" id="node43" href="$_ram_value_8h.html" title="RamValue.h" alt="" coords="999,304,1093,331"/>
+<area shape="rect" id="node42" href="$_ram_condition_8h.html" title="RamCondition.h" alt="" coords="1378,229,1493,256"/>
+<area shape="rect" id="node44" href="$_binary_functor_ops_8h.html" title="BinaryFunctorOps.h" alt="" coords="448,528,587,555"/>
+<area shape="rect" id="node45" href="$_ternary_functor_ops_8h.html" title="TernaryFunctorOps.h" alt="" coords="713,528,857,555"/>
+<area shape="rect" id="node46" href="$_unary_functor_ops_8h.html" title="UnaryFunctorOps.h" alt="" coords="933,528,1068,555"/>
+<area shape="rect" id="node49" href="$_global_8h.html" title="Global.h" alt="" coords="2841,528,2911,555"/>
+</map>

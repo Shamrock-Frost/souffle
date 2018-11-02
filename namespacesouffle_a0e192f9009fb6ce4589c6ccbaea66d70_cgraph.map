@@ -1,0 +1,10 @@
+<map id="souffle::genJsonRules" name="souffle::genJsonRules">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1profile_1_1_tools.html#a88c43a221e64a3caa215693a871928ff" title="souffle::profile::Tools\l::cleanJsonOut" alt="" coords="224,5,368,46"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1profile_1_1_output_processor.html#a00fc18c81242ba0ba6a36de106a3c33b" title="souffle::profile::Output\lProcessor::getProgramRun" alt="" coords="206,70,386,111"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_table.html#ad5808507021b6f9cdd5641aac825f29e" title="souffle::profile::Table\l::getRows" alt="" coords="224,135,368,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1profile_1_1_output_processor.html#aeaa20b7a6c8670b3641c17a087c759f1" title="souffle::profile::Output\lProcessor::getVersions" alt="" coords="217,201,375,242"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_table.html#a677b0c069aef136d03cd649e9842010f" title="souffle::Table::size" alt="" coords="229,267,363,293"/>
+<area shape="rect" id="node8" href="$namespacesouffle_1_1profile_1_1_tools.html#af066460f14a270ae3871cd18a8cf423d" title="souffle::profile::Tools\l::split" alt="" coords="224,318,368,359"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="239,384,353,411"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1profile_1_1_table.html#ac99e71fd2b566a2e68a72da291a86aa5" title="souffle::profile::Table\l::addRow" alt="" coords="435,201,579,242"/>
+</map>

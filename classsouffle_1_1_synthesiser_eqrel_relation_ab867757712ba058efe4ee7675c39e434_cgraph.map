@@ -1,0 +1,4 @@
+<map id="souffle::SynthesiserEqrelRelation::generateTypeStruct" name="souffle::SynthesiserEqrelRelation::generateTypeStruct">
+<area shape="rect" id="node2" href="$classsouffle_1_1_synthesiser_relation.html#a0625138126553a87bdee87fbe851e38d" title="Get list of indices used for relation, guaranteed that original indices in IndexSet come before any g..." alt="" coords="245,5,432,46"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_synthesiser_eqrel_relation.html#ad39ea4400745677dd7b5bb2f6026b36e" title="Generate type name of a eqrel relation. " alt="" coords="255,70,423,111"/>
+</map>

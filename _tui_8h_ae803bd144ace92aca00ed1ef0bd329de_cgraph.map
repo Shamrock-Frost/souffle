@@ -1,0 +1,5 @@
+<map id="genJsonAtoms" name="genJsonAtoms">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1profile_1_1_tools.html#a88c43a221e64a3caa215693a871928ff" title="souffle::profile::Tools\l::cleanJsonOut" alt="" coords="181,5,325,46"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1profile_1_1_tools.html#a7c25512762a92c980a664299f22ccf01" title="souffle::profile::Tools\l::cleanString" alt="" coords="181,70,325,111"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1profile_1_1_output_processor.html#a00fc18c81242ba0ba6a36de106a3c33b" title="souffle::profile::Output\lProcessor::getProgramRun" alt="" coords="163,135,343,177"/>
+</map>

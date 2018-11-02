@@ -1,0 +1,8 @@
+<map id="souffle::detail::btree&lt; Key, Comparator, Allocator, blockSize, SearchStrategy, isSet, WeakComparator, Updater &gt;" name="souffle::detail::btree&lt; Key, Comparator, Allocator, blockSize, SearchStrategy, isSet, WeakComparator, Updater &gt;">
+<area shape="rect" id="node2" href="$structsouffle_1_1detail_1_1btree_1_1hint__statistics.html" title="{souffle::detail::btree\l\&lt; Key, Comparator, Allocator,\l blockSize, SearchStrategy,\l isSet, WeakComparator, Updater\l \&gt;::hint_statistics\n||}" alt="" coords="5,784,224,920"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_cache_access_counter.html" title="A utility class to keep track of cache hits/misses. " alt="" coords="15,167,212,347"/>
+<area shape="rect" id="node8" href="$structsouffle_1_1detail_1_1btree_1_1base.html" title="The base type of all node types containing essential book&#45;keeping information. " alt="" coords="237,160,504,355"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1detail_1_1btree_1_1leaf__node.html" title="The data type representing leaf nodes of the b&#45;tree. " alt="" coords="303,981,523,1117"/>
+<area shape="rect" id="node7" href="$structsouffle_1_1detail_1_1btree_1_1node.html" title="The actual, generic node implementation covering the operations for both, inner and leaf nodes..." alt="" coords="279,462,547,759"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_optimistic_read_write_lock.html" title="A &#39;sequential&#39; non&#45;locking implementation for an optimistic r/w lock. " alt="" coords="904,945,1123,1154"/>
+</map>

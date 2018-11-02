@@ -1,0 +1,5 @@
+<map id="souffle::detail::btree::node::countNodes" name="souffle::detail::btree::node::countNodes">
+<area shape="rect" id="node2" href="$structsouffle_1_1detail_1_1btree_1_1node.html#a014063a5026af18753d13766ba71179d" title="Obtains a reference to the child of the given index. " alt="" coords="193,5,330,46"/>
+<area shape="rect" id="node4" href="$structsouffle_1_1detail_1_1btree_1_1base.html#a164894fc875769ca72f9eefb6a3f085a" title="souffle::detail::btree\l::base::isLeaf" alt="" coords="193,70,330,111"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1detail_1_1btree_1_1node.html#a8076ed534c629b7d1984e11b81dab6ce" title="A utility function providing a reference to this node as an inner node. " alt="" coords="379,5,519,46"/>
+</map>

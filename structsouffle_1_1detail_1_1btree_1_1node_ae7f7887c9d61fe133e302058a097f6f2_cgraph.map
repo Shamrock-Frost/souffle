@@ -1,0 +1,4 @@
+<map id="souffle::detail::btree::node::check" name="souffle::detail::btree::node::check">
+<area shape="rect" id="node2" href="$structsouffle_1_1detail_1_1btree_1_1node.html#a70bd0452c917eda335910f749ab14424" title="Obtains a pointer to the array of child&#45;pointers of this node – if it is an inner node..." alt="" coords="193,29,330,70"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1detail_1_1btree_1_1node.html#a8076ed534c629b7d1984e11b81dab6ce" title="A utility function providing a reference to this node as an inner node. " alt="" coords="379,29,519,70"/>
+</map>

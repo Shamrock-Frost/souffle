@@ -1,0 +1,7 @@
+<map id="souffle::SynthesiserHashsetRelation::getTypeName" name="souffle::SynthesiserHashsetRelation::getTypeName">
+<area shape="rect" id="node2" href="$classsouffle_1_1_synthesiser_relation.html#a2bf63cc6b290d98fc967bc439e54da54" title="Get arity of relation. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_synthesiser_relation.html#a801044cc5ece6bf1b8966697ccf8c82f" title="Get stored IndexSet. " alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_synthesiser_relation.html#a0625138126553a87bdee87fbe851e38d" title="Get list of indices used for relation, guaranteed that original indices in IndexSet come before any g..." alt="" coords="240,135,427,177"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="289,201,378,228"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ram_relation.html#a4b8c28fa5818f930e0d3149cd4a50b8b" title="souffle::RamRelation\l::getArity" alt="" coords="475,5,621,46"/>
+</map>

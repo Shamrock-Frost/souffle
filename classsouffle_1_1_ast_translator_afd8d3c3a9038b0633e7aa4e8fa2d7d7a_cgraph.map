@@ -1,0 +1,12 @@
+<map id="souffle::AstTranslator::getSymbolMask" name="souffle::AstTranslator::getSymbolMask">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_relation.html#a855b01ad5e4a0871ef6c6f6bb1e95d13" title="Return the arity of this relation. " alt="" coords="207,5,345,46"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_relation.html#adb5cd82c692fa627cf2c0ce2e8a482ad" title="Return the declared type at position idx. " alt="" coords="207,70,345,111"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_type_environment.html#ad66cb326f809dc980e7901dfbe1fcdc5" title="souffle::TypeEnvironment\l::getType" alt="" coords="675,158,845,199"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_attribute.html#a40684d365644542287c88ea74d68d799" title="souffle::AstAttribute\l::getTypeName" alt="" coords="207,187,345,229"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a11f6c352eec6bde7b5a0b143ffe64e3b" title="Determines whether the given type is a symbol type. " alt="" coords="200,253,352,280"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_symbol_mask.html#a8f5dd51f70faaf206bc3bedad2a4e8c7" title="souffle::SymbolMask\l::setSymbol" alt="" coords="203,305,349,346"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_type_environment.html#af6f82790cb9e31b0efb8583894db3fa3" title="souffle::TypeEnvironment\l::isType" alt="" coords="893,158,1064,199"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_type_environment.html#a66b0c5761bcf5248516f08310f3b0817" title="souffle::TypeEnvironment\l::getSymbolType" alt="" coords="428,187,599,229"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_type.html#ac0e65ae3329b48ff0f0ad4c1b179b438" title="souffle::Type::getTypeEnvironment" alt="" coords="400,253,627,280"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_symbol_mask.html#a73093d37902fa812dc5db128ab9ed85e" title="souffle::SymbolMask\l::getArity" alt="" coords="441,305,586,346"/>
+</map>

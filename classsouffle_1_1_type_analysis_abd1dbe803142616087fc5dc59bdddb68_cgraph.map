@@ -1,0 +1,51 @@
+<map id="souffle::TypeAnalysis::analyseTypes" name="souffle::TypeAnalysis::analyseTypes">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_functor_declaration.html#a120d63958e1cf13f05c869a53fca8105" title="accepts the i&#45;th argument as a number value " alt="" coords="209,5,407,46"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_unary_functor.html#a4cf82680dd81edcf5e4ae332561c3574" title="Check if the argument of this functor is a number type. " alt="" coords="487,177,655,218"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_binary_functor.html#a5647b3dfc1138c23d3e31af163d67f92" title="Check if the arguments of this functor are number types. " alt="" coords="485,242,656,283"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_ternary_functor.html#aff73d597a99b3ea2891440a6e138e1c8" title="Check if the arguments of this functor are number types. " alt="" coords="482,438,659,479"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_functor_declaration.html#ac55037912bc365633938c9375da6a052" title="accepts the i&#45;th argument as a symbolic value " alt="" coords="209,70,407,111"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_unary_functor.html#af7b3b8e6e7614a6f83d21f2f916ca38b" title="Check if the argument of this functor is a symbol type. " alt="" coords="224,135,392,177"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_binary_functor.html#ac62f2f378a06a318a4498a08836cf317" title="Check if the arguments of this functor are symbol types. " alt="" coords="223,303,393,345"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_ternary_functor.html#a277e5f9f7128ab400d0ab645797420f5" title="Check if the arguments of this functor are symbol types. " alt="" coords="219,369,397,410"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_user_defined_functor.html#ad119952e45e557d2e3bb53f9fbec0ba3" title="get argument " alt="" coords="205,486,411,527"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_ternary_functor.html#a260a737a4d4d1f5afe152eb62ea952e2" title="souffle::AstTernaryFunctor\l::getArg" alt="" coords="219,551,397,593"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_user_defined_functor.html#a2b3e1049abff321cbac8beadaaead1b1" title="get number of arguments " alt="" coords="205,617,411,658"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_atom.html#a11ba399d723b5f1135a35e47e51e1bad" title="Provides access to the list of arguments of this atom. " alt="" coords="203,683,413,709"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_record_init.html#ae516fe38512e96c666014acce207b983" title="souffle::AstRecordInit\l::getArguments" alt="" coords="233,734,383,775"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_negation.html#a0737c379dac1c350accecb1e2301698c" title="Returns the nested atom as the referenced atom. " alt="" coords="237,799,379,841"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#ab18cbb3adc2ab328de0db30a3fddf7e0" title="Returns the relation referenced by the given atom. " alt="" coords="225,865,391,892"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_program.html#adefbe0ff2aa1dee06bdb531b1f070a72" title="Get functor declaration. " alt="" coords="229,917,387,958"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ast_binary_constraint.html#a26c7032570077e96344af46146f4360d" title="Return LHS argument. " alt="" coords="215,982,401,1023"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ast_binary_functor.html#af07199592aa2dfebeb17fb1a3fdee3ab" title="souffle::AstBinaryFunctor\l::getLHS" alt="" coords="223,1047,393,1089"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ast_user_defined_functor.html#a448b2831b5ead77c225c0f0a9f8596c7" title="get name " alt="" coords="205,1113,411,1154"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_type_environment.html#a3607b9fb617c47df3da5050384b5f635" title="souffle::TypeEnvironment\l::getNumberType" alt="" coords="223,1542,393,1583"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_type_environment.html#ad66cb326f809dc980e7901dfbe1fcdc5" title="souffle::TypeEnvironment\l::getType" alt="" coords="485,1255,656,1297"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_type_environment.html#af6f82790cb9e31b0efb8583894db3fa3" title="souffle::TypeEnvironment\l::isType" alt="" coords="752,1213,923,1254"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ast_unary_functor.html#a8ce4072c9ac9ba96517ac90cfd45a15f" title="souffle::AstUnaryFunctor\l::getOperand" alt="" coords="224,1346,392,1387"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ast_binary_constraint.html#a5b708f1d607128003c3205a7a0fd12f2" title="Return RHS argument. " alt="" coords="215,1411,401,1453"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ast_binary_functor.html#a23dfd787b0f56c314675dfea50eee0b0" title="souffle::AstBinaryFunctor\l::getRHS" alt="" coords="223,1477,393,1518"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_type_environment.html#a66b0c5761bcf5248516f08310f3b0817" title="souffle::TypeEnvironment\l::getSymbolType" alt="" coords="223,1281,393,1322"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ast_aggregator.html#a59e520e92b927956903439a375c9ce62" title="souffle::AstAggregator\l::getTargetExpression" alt="" coords="232,1607,384,1649"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ast_functor_declaration.html#a52dcabf791f81a454657e26109d9a8f5" title="is return type a number value " alt="" coords="209,1673,407,1714"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_ast_unary_functor.html#a7ed415b3d440dc1a32d109d9b881b72c" title="Check if the return value of this functor is a number type. " alt="" coords="224,1738,392,1779"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ast_binary_functor.html#afd9734fc0a28e574124dd20840ff6e59" title="Check if the return value of this functor is a number type. " alt="" coords="223,1803,393,1845"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1_ast_ternary_functor.html#ad7779abfcbbaa627340c8c5a2a0eba41" title="Check if the return value of this functor is a number type. " alt="" coords="219,1869,397,1910"/>
+<area shape="rect" id="node46" href="$namespacesouffle.html#a8cc19c66d9d13ce64e65f14dcabb43b3" title="Determines whether type a is a subtype of type b. " alt="" coords="237,1935,379,1961"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_ast_functor_declaration.html#ab54449b5ebb065bdc2b11b1f01e57d44" title="is return type a symbolic value " alt="" coords="209,1986,407,2027"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_ast_unary_functor.html#a5bcce46ecc322a38848775625f569d76" title="Check if the return value of this functor is a symbol type. " alt="" coords="224,2051,392,2093"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_ast_binary_functor.html#a7bbbec45d301624dadda290fd87ba1b6" title="Check if the return value of this functor is a symbol type. " alt="" coords="223,2117,393,2158"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_ast_ternary_functor.html#ac04de00a329adf7fa64ef8ff9ea54ee6" title="Check if the return value of this functor is a symbol type. " alt="" coords="219,2182,397,2223"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_functor_declaration.html#a90861dd26b6dce3c180a6170ebeb40d1" title="get number of arguments " alt="" coords="471,31,670,73"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ac9af2eda2dd88cc60de32a89c4dc891c" title="Returns whether the given operator takes a numeric argument. " alt="" coords="728,155,947,181"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a6202e50cad5266ddb9a18f3788df4625" title="Determines whether an argument has a number value. " alt="" coords="753,275,922,317"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a529b2e542971d474c9d97b1546001dcf" title="Determines whether an argument has a number value. " alt="" coords="750,406,925,447"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a3523c0cffbdbed0fabf4ad2f298f9c51" title="Returns whether the given operator takes a symbolic argument. " alt="" coords="462,125,679,152"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a29028449b83efcd97fc86857d35572c0" title="Determines whether an argument has a symbolic value. " alt="" coords="486,307,655,349"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#a7778845f2059dbeb6e09b524cf45fca1" title="Determines whether an argument has a symbolic value. " alt="" coords="483,373,658,414"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="503,712,638,739"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_atom.html#adfaa949dc3e89fa2dc25981963ea5752" title="Return the name of this atom. " alt="" coords="480,895,661,921"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_program.html#ae4e787ea4d338524ea6b346d5dedc290" title="Find and return the relation in the program given its name. " alt="" coords="501,829,640,870"/>
+<area shape="rect" id="node41" href="$namespacesouffle.html#abd31efb9f808712dfee9a892ec1dc08e" title="Returns whether the given operator has a numeric return value. " alt="" coords="481,1745,661,1772"/>
+<area shape="rect" id="node43" href="$namespacesouffle.html#a5ecdc282acb8ee99226175690bf397d0" title="Determines whether the given operator has a numeric return value. " alt="" coords="479,1811,662,1837"/>
+<area shape="rect" id="node45" href="$namespacesouffle.html#a886a8cccceb06e389e680c9ecf584deb" title="Determines whether the given operator has a numeric return value. " alt="" coords="476,1876,665,1903"/>
+</map>

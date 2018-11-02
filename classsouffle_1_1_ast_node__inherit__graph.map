@@ -1,0 +1,42 @@
+<map id="souffle::AstNode" name="souffle::AstNode">
+<area shape="rect" id="node2" href="$classsouffle_1_1_ast_argument.html" title="Intermediate representation of an argument. " alt="" coords="947,468,1092,575"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_ast_attribute.html" title="Intermediate representation of an attribute which stores the name and the type of an attribute..." alt="" coords="1117,417,1261,626"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_clause.html" title="Intermediate representation of a datalog clause. " alt="" coords="1286,343,1449,699"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1_ast_component.html" title="A AST node describing a component within the input program. " alt="" coords="1475,343,1637,699"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_component_init.html" title="A node type representing expressions utilized to initialize components by binding them to a name..." alt="" coords="1662,417,1836,626"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1_ast_component_type.html" title="A component type is the class utilized to represent a construct of the form. " alt="" coords="1861,409,2045,633"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_ast_execution_order.html" title="An execution order for atoms within a clause. " alt="" coords="2071,402,2249,641"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_ast_execution_plan.html" title="The class utilized to model user&#45;defined execution plans for various versions of clauses. " alt="" coords="2273,395,2447,648"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_functor_declaration.html" title="AstFunctorDeclaration. " alt="" coords="2471,387,2669,655"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_ast_i_o_directive.html" title="Intermediate representation of an argument of a Literal (e.g., a variable or a constant) ..." alt="" coords="2693,358,2847,685"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ast_literal.html" title="Intermediate representation of atoms, binary relations, and negated atoms in the body and head of a c..." alt="" coords="2871,461,2995,582"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_ast_pragma.html" title="Representation of a global option. " alt="" coords="3019,417,3153,626"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1_ast_program.html" title="Intermediate representation of a datalog program that consists of relations, clauses and types..." alt="" coords="3179,277,3384,765"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_ast_relation.html" title="{souffle::AstRelation\n|# attributes\l# clauses\l# ioDirectives\l# name\l# qualifier\l|+ addAttribute()\l+ addClause()\l+ addIODirectives()\l+ apply()\l+ AstRelation()\l+ clauseSize()\l+ clone()\l+ getArity()\l+ getAttribute()\l+ getAttributes()\land 24 more...\l# equal()\l}" alt="" coords="3409,373,3545,670"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ast_type.html" title="{souffle::AstType\n|&#45; name\l|+ apply()\l+ AstType()\l+ clone()\l+ getChildNodes()\l+ getName()\l+ setName()\l}" alt="" coords="3571,446,3699,597"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_aggregator.html" title="An argument aggregating a value from a sub&#45;query. " alt="" coords="237,828,400,1111"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_constant.html" title="Subclass of Argument that represents a datalog constant value. " alt="" coords="425,909,567,1030"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_ast_counter.html" title="Subclass of Argument that represents a counter (for projections only) " alt="" coords="629,901,763,1037"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_functor.html" title="A common base class for AST functors. " alt="" coords="788,931,921,1008"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_record_init.html" title="An argument that takes a list of values and combines them into a new record. " alt="" coords="945,872,1093,1067"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_ast_subroutine_argument.html" title="An argument taking its value from an argument of a RAM subroutine. " alt="" coords="1119,894,1325,1045"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_type_cast.html" title="An argument capable of casting a value of one type into another. " alt="" coords="1351,872,1497,1067"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_ast_unnamed_variable.html" title="Subclass of Argument that represents an unnamed variable. " alt="" coords="1521,901,1713,1037"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_ast_variable.html" title="Subclass of Argument that represents a named variable. " alt="" coords="1737,887,1872,1052"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_null_constant.html" title="Subclass of AstConstant that represents a null&#45;constant (no record) " alt="" coords="5,1276,169,1383"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_number_constant.html" title="Subclass of Argument that represents a datalog constant value. " alt="" coords="195,1276,383,1383"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_ast_string_constant.html" title="Subclass of Argument that represents a datalog constant value. " alt="" coords="408,1261,584,1397"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_ast_binary_functor.html" title="Subclass of Argument that represents a binary function. " alt="" coords="608,1181,779,1478"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_ternary_functor.html" title="{souffle::AstTernaryFunctor\n|# arg\l# fun\l|+ acceptsNumbers()\l+ acceptsSymbols()\l+ apply()\l+ AstTernaryFunctor()\l+ clone()\l+ getArg()\l+ getChildNodes()\l+ getFunction()\l+ isNumerical()\l+ isSymbolic()\l+ print()\l# equal()\l}" alt="" coords="803,1203,980,1456"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1_ast_unary_functor.html" title="Subclass of Argument that represents a unary function. " alt="" coords="1005,1195,1173,1463"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_user_defined_functor.html" title="Subclass of Argument that represents a unary function. " alt="" coords="1198,1188,1404,1471"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_ast_atom.html" title="Subclass of Literal that represents the use of a relation either in the head or in the body of a Clau..." alt="" coords="2587,813,2715,1125"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ast_constraint.html" title="Subclass of Literal that represents a logical constraint. " alt="" coords="2739,909,2887,1030"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ast_negation.html" title="Subclass of Literal that represents a negated atom, * e.g., !parent(x,y). " alt="" coords="2912,872,3052,1067"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ast_provenance_negation.html" title="Subclass of Literal that represents a negated atom, * e.g., !parent(x,y). " alt="" coords="3077,872,3287,1067"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_ast_binary_constraint.html" title="Subclass of Constraint that represents a binary constraint e.g., x = y. " alt="" coords="2612,1173,2799,1485"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_ast_boolean_constraint.html" title="Subclass of Constraint that represents a constant &#39;true&#39; or &#39;false&#39; value. " alt="" coords="2823,1232,3019,1427"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ast_primitive_type.html" title="A primitive type is named type that can either be a sub&#45;type of the build&#45;in number or symbol type..." alt="" coords="3361,894,3529,1045"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_ast_record_type.html" title="A record type aggregates a list of fields into a new type. " alt="" coords="3555,894,3713,1045"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ast_union_type.html" title="A union type combines multiple types into a new super type. " alt="" coords="3739,894,3891,1045"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Global.h" name="Global.h">
+<area shape="rect" id="node2" href="$_ast_pragma_8cpp.html" title="AstPragma.cpp" alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$_ast_profile_use_8cpp.html" title="AstProfileUse.cpp" alt="" coords="141,80,269,107"/>
+<area shape="rect" id="node4" href="$_ast_semantic_checker_8cpp.html" title="AstSemanticChecker.cpp" alt="" coords="293,80,464,107"/>
+<area shape="rect" id="node5" href="$_ast_transforms_8cpp.html" title="AstTransforms.cpp" alt="" coords="488,80,621,107"/>
+<area shape="rect" id="node6" href="$_ast_translator_8cpp.html" title="AstTranslator.cpp" alt="" coords="591,155,716,181"/>
+<area shape="rect" id="node7" href="$_log_statement_8h.html" title="LogStatement.h" alt="" coords="696,80,811,107"/>
+<area shape="rect" id="node8" href="$_interpreter_8cpp.html" title="Interpreter.cpp" alt="" coords="791,155,897,181"/>
+<area shape="rect" id="node9" href="$_synthesiser_8cpp.html" title="Synthesiser.cpp" alt="" coords="983,229,1099,256"/>
+<area shape="rect" id="node10" href="$_ast_type_analysis_8cpp.html" title="AstTypeAnalysis.cpp" alt="" coords="936,80,1083,107"/>
+<area shape="rect" id="node11" href="$_global_8cpp.html" title="Global.cpp" alt="" coords="1107,80,1191,107"/>
+<area shape="rect" id="node12" href="$_index_set_analysis_8cpp.html" title="IndexSetAnalysis.cpp" alt="" coords="1216,80,1364,107"/>
+<area shape="rect" id="node13" href="$_magic_set_8cpp.html" title="MagicSet.cpp" alt="" coords="1390,80,1492,107"/>
+<area shape="rect" id="node14" href="$main_8cpp.html" title="main.cpp" alt="" coords="1623,229,1696,256"/>
+<area shape="rect" id="node15" href="$_synthesiser_relation_8h.html" title="SynthesiserRelation.h" alt="" coords="1517,80,1667,107"/>
+<area shape="rect" id="node18" href="$_precedence_graph_8cpp.html" title="PrecedenceGraph.cpp" alt="" coords="1743,80,1893,107"/>
+<area shape="rect" id="node19" href="$souffle2bdd_8cpp.html" title="souffle2bdd.cpp" alt="" coords="1919,80,2033,107"/>
+<area shape="rect" id="node20" href="$souffle2lb_8cpp.html" title="souffle2lb.cpp" alt="" coords="2058,80,2160,107"/>
+<area shape="rect" id="node16" href="$_synthesiser_8h.html" title="Synthesiser.h" alt="" coords="1553,155,1655,181"/>
+<area shape="rect" id="node17" href="$_synthesiser_relation_8cpp.html" title="SynthesiserRelation.cpp" alt="" coords="1365,155,1528,181"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="souffle::AstTranslator::getOutputIODirectives" name="souffle::AstTranslator::getOutputIODirectives">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="213,5,363,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_relation.html#a855b01ad5e4a0871ef6c6f6bb1e95d13" title="Return the arity of this relation. " alt="" coords="219,57,357,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_ast_relation.html#adb5cd82c692fa627cf2c0ce2e8a482ad" title="Return the declared type at position idx. " alt="" coords="219,122,357,163"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_ast_attribute.html#a3a2801035b0b68be4c3cc30bc5b6737f" title="souffle::AstAttribute\l::getAttributeName" alt="" coords="219,187,357,229"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_relation.html#ad8f0363bd6b11fd039b5850d7528e92f" title="souffle::AstRelation\l::getIODirectives" alt="" coords="219,253,357,294"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="642,411,731,437"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_translator.html#acfb5eb07680c259f77849a343bcb25f0" title="souffle::AstTranslator\l::makeIODirective" alt="" coords="215,622,361,663"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="629,680,744,707"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_i_o_directives.html#a87f01c4cd4597478d44deb81f4954bdd" title="souffle::IODirectives\l::setIOType" alt="" coords="425,367,567,409"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_i_o_directives.html#a74eab2acece044fbc85175a9536dadb3" title="souffle::IODirectives::set" alt="" coords="412,943,580,969"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="429,260,563,287"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_i_o_directives.html#abef5a3f9b0d3393b17f2493c6769df63" title="souffle::IODirectives\l::setRelationName" alt="" coords="425,433,567,474"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_translator.html#a166b124d41a927432b4a3bced0cd1428" title="converts the given relation identifier into a relation name " alt="" coords="423,498,569,539"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1_ast_relation.html#a6ae505289ecfc8e40c9f4e47689f5ee8" title="Return the name of the relation. " alt="" coords="427,563,565,605"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_i_o_directives.html#a2f2ca9501be622bb1fa053b93d14d379" title="souffle::IODirectives::has" alt="" coords="411,629,581,656"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_i_o_directives.html#afe88e8d440efcef1bf4cacf77fcb3a50" title="souffle::IODirectives\l::getIOType" alt="" coords="425,681,567,722"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1_i_o_directives.html#ad991545107c9660ff13853748f82fd22" title="souffle::IODirectives\l::setFileName" alt="" coords="425,746,567,787"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1_i_o_directives.html#acb26561b3ea08c219cbf6b8ba9f475c3" title="souffle::IODirectives\l::getRelationName" alt="" coords="425,811,567,853"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_i_o_directives.html#a9019a775add220ab16302fb56ac7da66" title="souffle::IODirectives\l::getFileName" alt="" coords="425,877,567,918"/>
+</map>

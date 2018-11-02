@@ -1,0 +1,40 @@
+<map id="souffle::Adornment::run" name="souffle::Adornment::run">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a03bcd21bf483197875a4221a669ba676" title="souffle::addAggregators" alt="" coords="491,227,651,253"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_ast_atom.html#adfaa949dc3e89fa2dc25981963ea5752" title="Return the name of this atom. " alt="" coords="753,328,935,355"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a4e134334ce89f6ebc4075e1089b1f80d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="767,211,921,237"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#abfb26477b4d38c4b4e56f65b124eef3c" title="souffle::addForwardDependencies" alt="" coords="461,176,681,203"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a6f53082a60ed5593022bde81dc619ac9" title="souffle::contains" alt="" coords="1265,581,1383,608"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1_ast_relation.html#a0a748962a9a2151a2fabe585346fb0d7" title="Obtains a list of the associated clauses. " alt="" coords="775,262,913,303"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_ast_program.html#ae4e787ea4d338524ea6b346d5dedc290" title="Find and return the relation in the program given its name. " alt="" coords="775,55,913,97"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a20da927281260d0ab8c38d2148108538" title="souffle::addIgnoredRelations" alt="" coords="214,632,402,659"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1_ast_relation_identifier.html#acda6f50de4882f69fcbc70f7432bca75" title="souffle::AstRelationIdentifier\l::getName" alt="" coords="751,853,937,894"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_ast_program.html#a60fcb7d3a21a06be7b48f5849917a22b" title="Get all relations in the program. " alt="" coords="775,1009,913,1050"/>
+<area shape="rect" id="node19" href="$namespacesouffle.html#a90cc6d2beab208ecbf25ddabd458256e" title="souffle::bindArguments" alt="" coords="230,531,386,557"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1_ast_atom.html#a11ba399d723b5f1135a35e47e51e1bad" title="Provides access to the list of arguments of this atom. " alt="" coords="739,379,949,405"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#a526256b2f4d593cceb8b73068e7de882" title="souffle::getString" alt="" coords="510,936,631,963"/>
+<area shape="rect" id="node28" href="$namespacesouffle.html#a5c6308ee8b92e79229e01daec1d68d6a" title="souffle::bindComposites" alt="" coords="227,1215,389,1241"/>
+<area shape="rect" id="node31" href="$namespacesouffle.html#aeeb4465d8c07d802fb161440e0399ee1" title="souffle::containsAggregators" alt="" coords="477,125,665,152"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_adorned_predicate.html#a8ea00593793d8bd3d21a5cc170335e4b" title="souffle::AdornedPredicate\l::getAdornment" alt="" coords="222,835,394,877"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_ast_relation.html#a855b01ad5e4a0871ef6c6f6bb1e95d13" title="Return the arity of this relation. " alt="" coords="239,901,377,942"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ast_negation.html#a0737c379dac1c350accecb1e2301698c" title="Returns the nested atom as the referenced atom. " alt="" coords="237,966,379,1007"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_adorned_predicate.html#a876e6191aba101df7b1db3b2df3cc6d7" title="souffle::AdornedPredicate\l::getName" alt="" coords="222,1031,394,1073"/>
+<area shape="rect" id="node36" href="$namespacesouffle.html#ab559af8bc13b344074099f3b7e44e037" title="souffle::getNextAtomSIPS" alt="" coords="219,455,397,481"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ast_translation_unit.html#a85862a5fcfecdf63c7367926cdedde23" title="get the AST program " alt="" coords="219,1149,397,1190"/>
+<area shape="rect" id="node39" href="$namespacesouffle.html#a01f8bfe9b5546db6b9c75d4c5b968d74" title="souffle::isBindingConstraint" alt="" coords="217,733,399,760"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ae3213abfc9e18e34bb08056ec91f7b86" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1009,211,1164,253"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_ast_node.html#a3726392849b2a07142ba13bbd5fb16d2" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1236,211,1412,253"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1019,328,1154,355"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#a0ad864a641b2c6a407647cd6c60ef196" title="souffle::addBackwardDependencies" alt="" coords="455,632,686,659"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="496,784,645,811"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a673608e9453179d30f6607384f54463a" title="Splits a string given a delimiter. " alt="" coords="507,683,634,709"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="1042,860,1131,887"/>
+<area shape="rect" id="node22" href="$namespacesouffle.html#a5048549cddd623327a828a4cc90fe746" title="souffle::isBoundArgument" alt="" coords="758,531,930,557"/>
+<area shape="rect" id="node23" href="$namespacesouffle.html#ae0c80a38e0b1c4617f373aba8d2c7198" title="souffle::hasPrefix" alt="" coords="1025,480,1149,507"/>
+<area shape="rect" id="node24" href="$namespacesouffle.html#a4d2a34e7c27740b381cf558eeebb28e4" title="souffle::isBoundComposite" alt="" coords="997,784,1176,811"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_binding_store.html#a0da8360ecba6d9b26e9d075a0b285740" title="souffle::BindingStore\l::addVariableBoundComposite" alt="" coords="1225,743,1423,785"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1_ast_variable.html#a298c753e0d5f0ca5c07536ca304d9086" title="souffle::AstVariable\l::getName" alt="" coords="1256,1037,1392,1078"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1_binding_store.html#a08058db98053df04128550fadda81875" title="souffle::BindingStore\l::getVariableDependencies" alt="" coords="1235,809,1413,850"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1_binding_store.html#a5274542dd9e7da5e28dfb25e566f3719" title="souffle::BindingStore\l::addBinding" alt="" coords="499,1199,642,1241"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1_ast_argument.html#a5f13087d708e0117ec3a913c7ffc3ad8" title="Create clone. " alt="" coords="771,1141,917,1182"/>
+<area shape="rect" id="node37" href="$namespacesouffle.html#ac40c44643579a08cafe750ea51daf7df" title="souffle::getNextAtomMaxBoundSIPS" alt="" coords="451,429,690,456"/>
+</map>
